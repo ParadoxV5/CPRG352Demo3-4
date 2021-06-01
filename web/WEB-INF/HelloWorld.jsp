@@ -7,6 +7,6 @@
   </head>
   <body>
     <h1>Hello World!</h1>
-    <p>Hello <output>${name}</output>! (:</p>
+    <p>Hello <output>${person.name}</output>! (:</p>
   </body>
 </html>
